@@ -1,6 +1,10 @@
 body {background-color: orange;
     font-family: sans-serif;
-    align-content: center;}
+    align-content: center;
+    margin: 0px;
+    padding: 0px; }
 
 #Ban {padding: 0px ;
-     margin: 0px;}
+    margin: 0px;}
+
+pre {padding: 1%;}
